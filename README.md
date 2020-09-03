@@ -1,5 +1,5 @@
 # Calendar
-Java application of a calendar with a to-do list
+Java application of a calendar with a to-do list.
 ![](images/Screenshot%20(349).png)
 
 ![](images/Screenshot%20(350).png)
